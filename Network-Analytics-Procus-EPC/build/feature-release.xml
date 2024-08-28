@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3493</product-id>
+	<feature-name>Network-Analytics-Procus-EPC-Capacity And Monitoring Analysis</feature-name>
+	<release>17B</release>
+	<system-area>EPC/EPC-Analysis</system-area>
+    <datasource-guid>aaa67e3f-d2ed-4a30-839d-ab78e90cb8ed</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
